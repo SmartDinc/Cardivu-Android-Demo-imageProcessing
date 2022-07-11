@@ -1,0 +1,9 @@
+*.iml
+/.gradle/
+/.idea/
+/build/
+/app/build/
+/opencv/build/
+/SDAPI/.cxx/
+/SDAPI/build/
+/SDAPI/google-services.json

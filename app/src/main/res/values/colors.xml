@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bfa5</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#20d3b0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_gray">#d3d3d3</color>
+    <color name="background_gray">#ededed</color>
+    <color name="background_snackbar">#323232</color>
+    <color name="light_gray">#a0a0a0</color>
+    <color name="dark_red_gray">#ff201010</color>
+    <color name="dark_gray">#ff707070</color>
+
+    <!--   Fab colors   -->
+    <color name="text_black_87">#de000000</color>
+
+    <color name="transparent_white">#33FFFFFF</color>
+    <color name="gray_400">#FFBDBDBD</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_today"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:iconTint="@color/white"
+        android:title="홈"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_analysis"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_view"
+        android:iconTint="@color/white"
+        android:title="측정 하기"
+        app:showAsAction="ifRoom" />
+</menu>

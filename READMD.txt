@@ -1,0 +1,2 @@
+1. OpenCV 4.6.0 압축해제 opencv-4.6.0-android-sdk.zip -> /opencv
+2. google-services.json -> /SDAPI
